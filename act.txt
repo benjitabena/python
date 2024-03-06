@@ -1,0 +1,9 @@
+actividad: 
+tateti (matrices) toda interacción por consola 
+programa reciba al jugador y su nombre 
+que pregunta con que quiere jugar X o O 
+lo mismo para el jugador dos 
+una vez que están los dos jugadores, se hace sorteo para ver quien empieza
+mantener todo el tiempo ell tablero en consola
+hacer el paso a paso del tablero por consola (interacción) (poner x en 0,0 ej) y si está ocupado no 
+hacer la pantalla de ganador y de empate mencionando jugadores 
